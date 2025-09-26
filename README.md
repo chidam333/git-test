@@ -1,28 +1,20 @@
-# Web Development Project 2
+# Web Development Project 3
 
 ## Overview
 This project is a modern web application built with HTML, CSS, and JavaScript. It provides a responsive user interface and interactive features for an optimal user experience across different devices. 2
-
+3 3 dsffdsf
 ## Features
 - Responsive design for mobile, tablet, and desktop
-- Interactive UI elements with JavaScript
-- Modern styling with CSS
+- Interactive UI elements with JavaScriptf ds
+- Modern styling with CSSds
 - Cross-browser compatibility
 - Performance optimized assets
 
 ## Technologies Used
 - HTML5
-- CSS3
-- JavaScript (ES6+)
-- [Optional: List any frameworks/libraries used, e.g., React, Vue, Bootstrap]
-
-## Installation
-1. Clone the repository
+- CSS3sd
    ```
-   git clone https://github.com/yourusername/project-name.git
-   ```
-2. Navigate to the project directory
-   ```
+2. Navigate to the project directory fds
    cd project-name
    ```
 3. Open the project
@@ -35,9 +27,9 @@ This project is a modern web application built with HTML, CSS, and JavaScript. I
 
 ## Project Structure
 ```
-project-root/
+project-root/fds
 │
-├── index.html          # Main HTML file
+├── index.html          # Main HTML filef dsfds
 ├── css/                # CSS files
 │   └── style.css       # Main stylesheet
 ├── js/                 # JavaScript files
