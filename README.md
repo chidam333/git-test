@@ -1,7 +1,7 @@
-# Web Development Project
+# Web Development Project 2
 
 ## Overview
-This project is a modern web application built with HTML, CSS, and JavaScript. It provides a responsive user interface and interactive features for an optimal user experience across different devices.
+This project is a modern web application built with HTML, CSS, and JavaScript. It provides a responsive user interface and interactive features for an optimal user experience across different devices. 2
 
 ## Features
 - Responsive design for mobile, tablet, and desktop
