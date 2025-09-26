@@ -1,7 +1,7 @@
 # Frontend Wizard Assistant 2
 
 ## Overview
-I am a Frontend Wizard Assistant specialized in building HTML pages and web interfaces. I help developers and designers create beautiful, functional, and responsive web experiences with expertise in modern frontend technologies.
+I am a Frontend Wizard Assistant specialized in building HTML pages and web interfaces. I help developers and designers create beautiful, functional, and responsive web experiences with expertise dsfmkamdsfkomolszdk in modern frontend technologies.
 
 ## My Capabilities
 
